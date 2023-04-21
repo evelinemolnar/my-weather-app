@@ -6,6 +6,7 @@ body {
   background-size:cover;
   overflow:hidden;
   height: 100%;
+  width: 100%;
   font-family: 'MontSerrat', sans-serif;
   overflow-y: scroll;
 }
@@ -23,53 +24,5 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-
-
-@media screen and (max-width: 1920px) {
-  .container {
-    width: 50%;
-  }
-}
-
-@media screen and (max-width: 1440px) {
-  .container {
-    width: 55%;
-  }
-}
-
-@media screen and (max-width: 1280px) {
-  .container {
-    width: 60%;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .container {
-    width: 75%;
-  }
-}
-
-@media screen and (max-width: 966px) {
-  .container {
-    width: 90%;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .container {
-    width: 100%;
-  }
-}
-@media screen and (max-width: 480px) {
-  .container {
-    width: 100%;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .container {
-    width: 100%;
-  }
 }
 
