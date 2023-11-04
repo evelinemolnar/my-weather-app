@@ -1,3 +1,14 @@
+#Weather Forecast Web App
+🟢First Page landing fetching the weather data from your actual location
+<img width="1437" alt="Screenshot 2023-11-04 at 11 05 15" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/e114aeea-b692-44c0-9ae9-504f7cf3262f">
+🟢Extended future forecast on hours
+<img width="1437" alt="Screenshot 2023-11-04 at 11 05 15" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/9a522a80-bee8-486b-bd90-704b3daf3415">
+🟢Search box with suggestions
+<img width="1186" alt="Screenshot 2023-11-04 at 11 05 30" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/51ef1570-c565-4c04-9e26-5f204fea4a64">
+🟢Weather for the chosen city
+<img width="1186" alt="Screenshot 2023-11-04 at 11 05 30" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/422ec466-81ef-4cdd-8603-614613404ee8">
+<img width="1143" alt="Screenshot 2023-11-04 at 11 06 15" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/7fa5813e-2e5e-45b3-a1be-81761361a233">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
