@@ -4,14 +4,16 @@
 <img width="1437" alt="Screenshot 2023-11-04 at 11 05 15" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/b6056398-ad4d-46b7-8a00-13240ca71c91">
 
 🟢Extended future forecast on hours
-<img width="1186" alt="Screenshot 2023-11-04 at 11 05 30" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/a6be466f-6ca7-4bbb-a032-f8c56ccb1b19">
+<img width="1186" alt="Screenshot 2023-11-04 at 11 05 30" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/678c3d36-e6ef-4c89-a426-739cf7fc0f5c">
+
 
 🟢Search box with suggestions
-<img width="1156" alt="Screenshot 2023-11-04 at 11 05 41" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/99be504c-c78f-42a7-ac37-f5f35cdfa486">
+<img width="1156" alt="Screenshot 2023-11-04 at 11 05 41" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/82d9da75-cb18-48a8-9caa-81e2a1689cde">
+
 
 🟢Weather for the chosen city
-<img width="1143" alt="Screenshot 2023-11-04 at 11 06 15" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/7fa5813e-2e5e-45b3-a1be-81761361a233">
-<img width="1153" alt="Screenshot 2023-11-04 at 11 05 57" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/7dd1be1e-82ed-4f2c-8968-12be877e84d3">
+<img width="1153" alt="Screenshot 2023-11-04 at 11 05 57" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/f11fd77e-8b3c-4330-b71c-06f69b67cbf5">
+<img width="1143" alt="Screenshot 2023-11-04 at 11 06 15" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/924cdb0b-eaac-4707-b8a0-68b83f6b08cd">
 
 
 # Getting Started with Create React App
