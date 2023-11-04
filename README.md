@@ -1,5 +1,5 @@
 ## Weather Forecast Web App
-
+<br>
 🟢First Page landing fetching the weather data from your actual location
 <img width="1437" alt="Screenshot 2023-11-04 at 11 05 15" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/e114aeea-b692-44c0-9ae9-504f7cf3262f">
 🟢Extended future forecast on hours
