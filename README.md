@@ -1,4 +1,6 @@
-## Weather Forecast Web App
+# Weather Forecast Web App
+
+The app is hosted on netlify https://weatherapp-first.netlify.app 
 <br>
 🟢First Page landing fetching the weather data from your actual location
 <img width="1437" alt="Screenshot 2023-11-04 at 11 05 15" src="https://github.com/evelinemolnar/my-weather-app/assets/101833465/b6056398-ad4d-46b7-8a00-13240ca71c91">
